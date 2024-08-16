@@ -6,7 +6,13 @@ CS-499 Southern New Hampshire University
 <b>[Enhancement One](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20One%20-%20Software%20Design): Software Engineering and Design</b><br>
 > For the initial enhancement of this application, I chose to overhaul the user interface of the app as well as assess the code for proper formatting. I also added in multiple new Toast messages for user confirmation. <br>
 ![image](https://github.com/user-attachments/assets/5fd4721e-abc5-4755-abad-b823b8c6f8a7)<br>
-![image](https://github.com/user-attachments/assets/e7e7a404-0feb-428f-87e2-67e65d2f70ac)
+![image](https://github.com/user-attachments/assets/e7e7a404-0feb-428f-87e2-67e65d2f70ac)<br><br>
+
+Prior to user interface enhancements:<br>
+![image](https://github.com/user-attachments/assets/cdd6a9b1-8a98-4eaa-ade9-f20e7fc07540)<br>
+After interface enhancements:<br>
+![image](https://github.com/user-attachments/assets/42a395b2-98e9-4f0c-8729-7c5503d456e4)
+
 
 <br>
 
