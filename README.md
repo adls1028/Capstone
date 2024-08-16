@@ -16,12 +16,12 @@ After interface enhancements:<br>
 
 <br>
 
-<b>[Enhancement Two](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Two%20-%20Algorithms): Algorithms and Data Structures</b><br>
+<b><a href="https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Two%20-%20Algorithms">Enhancement Two</a>: Algorithms and Data Structures</b><br>
 For the second enhancement, I implemented my knowledge of algorithms to create a sorting algorithm within the database. This made it so all weights added to the database were automatically sorted by the date of the weight, not the date the weight was added. <br><br>
 <img src="https://github.com/user-attachments/assets/cea8aab1-a4e4-45d0-b768-e2ef56d41ef4" width="250">
 
 
-<b>[Enhancement Three](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Three%20-%20Databases): Databases</b><br>
+<b><a href="https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Three%20-%20Databases">Enhancement Three</a>: Databases</b><br>
 For the final enhancement, I improved the database by making it more robust. I added delete and edit features throughout the database and allowed data to be stored under multiple usernames.<br><img src="https://github.com/user-attachments/assets/94a67d50-c4d5-411b-8691-1b4a09d431e8" width="250">
 
 <br><br>
