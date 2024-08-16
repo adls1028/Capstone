@@ -18,9 +18,14 @@ After interface enhancements:<br>
 
 <b>[Enhancement Two](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Two%20-%20Algorithms): Algorithms and Data Structures</b><br>
 > For the second enhancement, I implemented my knowledge of algorithms to create a sorting algorithm within the database. This made it so all weights added to the database were automatically sorted by the date of the weight, not the date the weight was added. <br><br>
+![image](https://github.com/user-attachments/assets/cea8aab1-a4e4-45d0-b768-e2ef56d41ef4)
+
 
 <b>[Enhancement Three](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Three%20-%20Databases): Databases</b><br>
-> For the final enhancement, I improved the database by making it more robust. I added delete and edit features throughout the database and allowed data to be stored under multiple usernames.<br><br>
+> For the final enhancement, I improved the database by making it more robust. I added delete and edit features throughout the database and allowed data to be stored under multiple usernames.<br>![image](https://github.com/user-attachments/assets/94a67d50-c4d5-411b-8691-1b4a09d431e8)
+
+> <br><br>
+
 
 <b>Professional Self-Assessment</b><br>
 > The time I have spent in the Computer Science program at Southern New Hampshire University has overall shaped my professional goals and values, as well as prepared me for entering the computer science field once I graduate. Although I do not plan to enter the Computer Science world directly, but instead am working towards becoming a Project Manager, I feel that all I have learned in this program has helped me gain a better overall understanding of the Computer Science field which I hope to work in. While this project does not reflect all I have worked on during my degree program, I feel that it shows a good understanding of my Software Design, Algorithm, and Database knowledge. <br><br>
