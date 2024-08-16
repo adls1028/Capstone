@@ -27,7 +27,7 @@ For the final enhancement, I improved the database by making it more robust. I a
 <br><br>
 
 
-<b>Professional Self-Assessment</b><br>
+<h1>Professional Self-Assessment</h1><br>
 The time I have spent in the Computer Science program at Southern New Hampshire University has overall shaped my professional goals and values, as well as prepared me for entering the computer science field once I graduate. Although I do not plan to enter the Computer Science world directly, but instead am working towards becoming a Project Manager, I feel that all I have learned in this program has helped me gain a better overall understanding of the Computer Science field which I hope to work in. While this project does not reflect all I have worked on during my degree program, I feel that it shows a good understanding of my Software Design, Algorithm, and Database knowledge. <br><br>
 
 The application I have chosen to feature as my artifact is a Weight Tracking application that was initially created in the Mobile Architecture course. I chose this single artifact as it provided a solid base to enhance my software design, algorithm, and database knowledge. This application started as a fairly basic app allowing for a user to login and input daily weights as well as weight goals. Overall, I was able to enhance the database allowing for users to edit or delete entries, adjust their weight goals, improve the user interface, and create an algorithm for automatically sorting entries. <br><br>
