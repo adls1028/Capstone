@@ -3,13 +3,13 @@ CS-499 Southern New Hampshire University
 
 <b> The artifact I have chosen to complete all three enhancements is my Weight Tracking app from the Mobile Architecture course. <br><br></b>
 
-<b>Enhancement One: Software Engineering and Design</b><br>
+<b>[Enhancement One](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20One%20-%20Software%20Design): Software Engineering and Design</b><br>
 > For the initial enhancement of this application, I chose to overhaul the user interface of the app as well as assess the code for proper formatting. <br><br>
 
-<b>Enhancement Two: Algorithms and Data Structures</b><br>
+<b>[Enhancement Two](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Two%20-%20Algorithms): Algorithms and Data Structures</b><br>
 > For the second enhancement, I implemented my knowledge of algorithms to create a sorting algorithm within the database. This made it so all weights added to the database were automatically sorted by the date of the weight, not the date the weight was added. <br><br>
 
-<b>Enhancement Three: Databases</b><br>
+<b>[Enhancement Three](https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Three%20-%20Databases): Databases</b><br>
 > For the final enhancement, I improved the database by making it more robust. I added delete and edit features throughout the database and allowed data to be stored under multiple usernames.<br><br>
 
 <b>Professional Self-Assessment</b><br>
