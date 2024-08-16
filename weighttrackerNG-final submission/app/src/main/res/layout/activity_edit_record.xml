@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/pagebkg"
+    tools:context=".EditRecordActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        app:cardCornerRadius="30dp"
+        app:cardElevation="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:padding="24dp"
+            android:background="@drawable/custom_edittext">
+
+            <ImageView
+                android:id="@+id/image_alertBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:cropToPadding="false"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/baseline_library_books_75" />
+
+            <TextView
+                android:id="@+id/popup_title_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/change_title"
+                android:textColor="@color/lavender"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                app:layout_constraintTop_toBottomOf="@+id/image_alertBox" />
+
+            <EditText
+                android:id="@+id/editTextDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:ems="10"
+                android:background="@drawable/custom_edittext"
+                android:padding="8dp"
+                android:drawablePadding="8dp"
+                android:hint="@string/date_hint"
+                android:inputType="date"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                app:layout_constraintTop_toBottomOf="@+id/change_record_prompt" />
+
+            <EditText
+                android:id="@+id/deleteRecord_editTextWeight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:ems="10"
+                android:background="@drawable/custom_edittext"
+                android:padding="8dp"
+                android:drawablePadding="8dp"
+                android:hint="Weight"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:inputType="numberDecimal"
+                android:visibility="invisible"/>
+
+            <Button
+                android:backgroundTint="@color/lavender"
+                android:id="@+id/changeRecord_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="changeDate_buttonClick"
+                android:layout_marginTop="20dp"
+                android:text="Change" />
+
+            <Button
+                android:backgroundTint="@color/lavender"
+                android:id="@+id/goalWeight_saveButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save"
+                android:layout_marginTop="20dp"
+                android:onClick="change_saveButtonClick"
+                android:visibility="invisible"/>
+
+            <Button
+                android:backgroundTint="@color/lavender"
+                android:id="@+id/goalWeight_cancelButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Cancel"
+                android:onClick="change_cancelButtonClick"/>
+
+            <TextView
+                android:id="@+id/change_record_prompt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/change_record_prompt"
+                android:textColor="@color/lavender"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                app:layout_constraintTop_toBottomOf="@+id/popup_title_textView" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
