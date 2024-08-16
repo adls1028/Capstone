@@ -10,6 +10,7 @@ Prior to the Mobile Architecture course, I did not have any experience with Andr
 
 <h1>Enhancements:</h1><br>
 <b> The artifact I have chosen to complete all three enhancements is my Weight Tracking app from the Mobile Architecture course. <br><br></b>
+<a href="https://github.com/adls1028/Capstone/tree/main/WeightTracker-original%20artifact">Here</a> is the original state of the artifact. The updated version after all enhancements can be seen <a href="https://github.com/adls1028/Capstone/tree/main/weighttrackerNG-final%20submission%20artifact">here</a>.<br>
 
 <b><a href="https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20One%20-%20Software%20Design">Enhancement One</a>: Software Engineering and Design</b><br>
 For the initial enhancement of this application, I chose to overhaul the user interface of the app as well as assess the code for proper formatting. I also added multiple new Toast messages for user confirmation. <br>
