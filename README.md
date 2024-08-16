@@ -2,11 +2,11 @@ Computer Science Capstone<br>
 CS-499 Southern New Hampshire University
 
 <b> The artifact I have chosen to complete all three enhancements is my Weight Tracking app from the Mobile Architecture course. <br><br></b>
-<h1>Enhancements:</h1><br><br>
+<h1>Enhancements:</h1><br>
 <b><a href="https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20One%20-%20Software%20Design">Enhancement One</a>: Software Engineering and Design</b><br>
 For the initial enhancement of this application, I chose to overhaul the user interface of the app as well as assess the code for proper formatting. I also added in multiple new Toast messages for user confirmation. <br>
 <img src="https://github.com/user-attachments/assets/5fd4721e-abc5-4755-abad-b823b8c6f8a7" align="center" width="400"><br>
-<img src="https://github.com/user-attachments/assets/e7e7a404-0feb-428f-87e2-67e65d2f70ac" align="center" width="400"><br><br>
+<img src="https://github.com/user-attachments/assets/e7e7a404-0feb-428f-87e2-67e65d2f70ac" align="center" width="400"><br>
 
 Prior to user interface enhancements:<br>
 <img src="https://github.com/user-attachments/assets/cdd6a9b1-8a98-4eaa-ade9-f20e7fc07540" align="center" width="250"><br>
@@ -24,7 +24,7 @@ For the second enhancement, I implemented my knowledge of algorithms to create a
 <b><a href="https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20Three%20-%20Databases">Enhancement Three</a>: Databases</b><br>
 For the final enhancement, I improved the database by making it more robust. I added delete and edit features throughout the database and allowed data to be stored under multiple usernames.<br><img src="https://github.com/user-attachments/assets/94a67d50-c4d5-411b-8691-1b4a09d431e8" width="250">
 
-<br><br>
+<br>
 
 
 <h1>Professional Self-Assessment</h1><br>
