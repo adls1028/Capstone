@@ -4,7 +4,7 @@ CS-499 Southern New Hampshire University
 <b> The artifact I have chosen to complete all three enhancements is my Weight Tracking app from the Mobile Architecture course. <br><br></b>
 <h1>Enhancements:</h1><br>
 <b><a href="https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20One%20-%20Software%20Design">Enhancement One</a>: Software Engineering and Design</b><br>
-For the initial enhancement of this application, I chose to overhaul the user interface of the app as well as assess the code for proper formatting. I also added in multiple new Toast messages for user confirmation. <br>
+For the initial enhancement of this application, I chose to overhaul the user interface of the app as well as assess the code for proper formatting. I also added multiple new Toast messages for user confirmation. <br>
 <img src="https://github.com/user-attachments/assets/5fd4721e-abc5-4755-abad-b823b8c6f8a7" align="center" width="400"><br>
 <img src="https://github.com/user-attachments/assets/e7e7a404-0feb-428f-87e2-67e65d2f70ac" align="center" width="400"><br>
 
