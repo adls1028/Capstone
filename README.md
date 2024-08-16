@@ -8,8 +8,9 @@ The application I have chosen to feature as my artifact is a Weight Tracking app
 
 Prior to the Mobile Architecture course, I did not have any experience with Android Studio (used to develop the app) or application development in general. Previous courses such as CS-260 (Data Structures) and DAD 220 (Database Systems) gave me a solid starting foundation as to how to approach the enhancements required for the Capstone. I have not experienced working in a team environment throughout my program at SNHU, so all of the learning and knowledge I pulled in for my artifact was from classes I had taken previously. Utilizing the skills I obtained in CS-250 (Software Development Lifecycle) like the best practices and documentation of software, as well as the overall lifecycle of the development process, I was able to effectively update and enhance the weight tracking application appropriately.<br><br>
 
-<b> The artifact I have chosen to complete all three enhancements is my Weight Tracking app from the Mobile Architecture course. <br><br></b>
 <h1>Enhancements:</h1><br>
+<b> The artifact I have chosen to complete all three enhancements is my Weight Tracking app from the Mobile Architecture course. <br><br></b>
+
 <b><a href="https://github.com/adls1028/capstone/tree/main/Enhancements%20and%20Narratives/Enhancement%20One%20-%20Software%20Design">Enhancement One</a>: Software Engineering and Design</b><br>
 For the initial enhancement of this application, I chose to overhaul the user interface of the app as well as assess the code for proper formatting. I also added multiple new Toast messages for user confirmation. <br>
 <img src="https://github.com/user-attachments/assets/5fd4721e-abc5-4755-abad-b823b8c6f8a7" align="center" width="400"><br>
