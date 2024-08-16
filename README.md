@@ -1,9 +1,6 @@
 Computer Science Capstone<br>
 CS-499 Southern New Hampshire University
 
-**Code Review:**
-> Completing a code review is crucial to a successful Computer Science project. It involves a quality assurance mindset by reviewing source code and the output of the code. Starting off this Capstone, I completed an initial code review that can be seen [here](https://github.com/adls1028/capstone/blob/main/Initial%20Code%20review%20video.mp4). <br>
-
 <b> The artifact I have chosen to complete all three enhancements is my Weight Tracking app from the Mobile Architecture course. <br><br></b>
 
 <b>Enhancement One: Software Engineering and Design</b><br>
@@ -20,4 +17,8 @@ CS-499 Southern New Hampshire University
 
 > The application I have chosen to feature as my artifact is a Weight Tracking application that was initially created in the Mobile Architecture course. I chose this single artifact as it provided a solid base to enhance my software design, algorithm, and database knowledge. This application started as a fairly basic app allowing for a user to login and input daily weights as well as weight goals. Overall, I was able to enhance the database allowing for users to edit or delete entries, adjust their weight goals, improve the user interface, and create an algorithm for automatically sorting entries. <br><br>
 
-> Prior to the Mobile Architecture course, I did not have any experience with Android Studio (used to develop the app) or application development in general. Previous courses such as CS-260 (Data Structures) and DAD 220 (Database Systems) gave me a solid starting foundation as to how to approach the enhancements required for the Capstone. I have not experienced working in a team environment throughout my program at SNHU, so all of the learning and knowledge I pulled in for my artifact was from classes I had taken previously. Utilizing the skills I obtained in CS-250 (Software Development Lifecycle) like the best practices and documentation of software, as well as the overall lifecycle of the development process, I was able to effectively update and enhance the weight tracking application appropriately. 
+> Prior to the Mobile Architecture course, I did not have any experience with Android Studio (used to develop the app) or application development in general. Previous courses such as CS-260 (Data Structures) and DAD 220 (Database Systems) gave me a solid starting foundation as to how to approach the enhancements required for the Capstone. I have not experienced working in a team environment throughout my program at SNHU, so all of the learning and knowledge I pulled in for my artifact was from classes I had taken previously. Utilizing the skills I obtained in CS-250 (Software Development Lifecycle) like the best practices and documentation of software, as well as the overall lifecycle of the development process, I was able to effectively update and enhance the weight tracking application appropriately.<br><br>
+
+**Code Review:**
+> Completing a code review is crucial to a successful Computer Science project. It involves a quality assurance mindset by reviewing source code and the output of the code. As I walked through my code prior to starting any enhancements, it was clear that there were things that could be improved, such as the database structure, the user interface, and the overall structure of the code itself. This gave me a good foundation of ideas to help with my Capstone Artifact. The initial code review can be seen [here](https://github.com/adls1028/capstone/blob/main/Initial%20Code%20review%20video.mp4).
+
